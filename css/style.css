@@ -1,0 +1,37 @@
+
+body {
+    font: 20px Verdana;
+}
+
+h3 {
+    padding-top: 40px;
+}
+
+.navbar {
+    background-color: wheat ;
+}
+
+.quem-somos{
+    background-color: #BDBDBD;
+}
+
+.serviços {
+    background-color: #848484;
+}
+
+.desenvolvimento {
+    background-color: #6E6E6E;
+}
+
+.margin {
+padding-bottom: 50px;
+padding-top: 10px;
+}
+
+.rounded-square {
+    padding-left: 35px;
+}
+
+.text_rodape2 {
+    padding-top: 25px;
+}
